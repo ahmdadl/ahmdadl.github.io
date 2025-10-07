@@ -152,7 +152,7 @@ export const projects = [
             'TanStack Router',
             'Tailwind CSS',
         ],
-        github: 'https://github.com/ahmdadl/simple-ecommerce-spa',
+        github: 'https://github.com/ahmdadl/ecommerce-front',
         live: 'https://techstore-spa.crafted-internet.com/en',
     },
     {
@@ -173,7 +173,7 @@ export const projects = [
             'React Router',
             'Tailwind CSS',
         ],
-        github: 'https://github.com/ahmdadl/simple-ecommerce-api',
+        github: 'https://github.com/ahmdadl/ecommerce-api',
         live: 'https://techstore.crafted-internet.com/en',
     },
 ].reverse();
