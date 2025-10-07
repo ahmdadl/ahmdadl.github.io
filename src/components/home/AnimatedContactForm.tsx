@@ -43,7 +43,7 @@ export const AnimatedContactForm = ({ isDark }: { isDark: boolean }) => {
             startTransition(async () => {
                 try {
                     const response = await fetch(
-                        'http://api-supps.test/api/send-portfolio-mail',
+                        'https://api-techstore.crafted-internet.com/api/send-portfolio-mail',
                         {
                             method: 'POST',
                             headers: {
